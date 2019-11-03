@@ -1,0 +1,19 @@
+.gameplay{
+    -fx-background-image:url("mainBG.png");
+    -fx-background-size:100% 100%;
+}
+.zombie{
+	-fx-image:url("Zombie_Idle.gif");
+}
+.peaShooter{
+	-fx-image:url("Peashooter_Idle.gif");
+}
+.pea{
+	-fx-image:url("pea.png");
+}
+.sun{
+	-fx-image:url("sun.png");
+}
+.lawnMover{
+	-fx-image:url("lawnMover.png");
+}

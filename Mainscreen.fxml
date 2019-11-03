@@ -14,7 +14,7 @@
          </children></VBox>
       <VBox alignment="CENTER" layoutX="261.0" layoutY="124.0" prefHeight="353.0" prefWidth="279.0">
          <children>
-            <Button mnemonicParsing="false" style="-fx-background-radius: 30 30 30 30;" stylesheets="@Mainscreen.css" text="New Game" textAlignment="CENTER">
+            <Button mnemonicParsing="false" onMouseClicked="#LoadNewGame" style="-fx-background-radius: 30 30 30 30;" stylesheets="@Mainscreen.css" text="New Game" textAlignment="CENTER">
                <VBox.margin>
                   <Insets bottom="10.0" top="10.0" />
                </VBox.margin>
